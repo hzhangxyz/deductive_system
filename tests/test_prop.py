@@ -1,5 +1,5 @@
-from engine import R, TermUnificationError, RuleDeductionError
-from prop import mp, axiom1, axiom2, axiom3
+from deductive_system.engine import R, TermUnificationError, RuleDeductionError
+from deductive_system.data.prop import mp, axiom1, axiom2, axiom3
 
 
 def __main__():

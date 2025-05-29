@@ -1,4 +1,4 @@
-from engine import R
+from ..engine import R
 
 # P -> Q, P |- Q
 mp = R("""
